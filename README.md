@@ -1,2 +1,2 @@
 # ComputerGeneratedSlang
-Academic &amp; Personal Blog Site
+Academic &amp; general Blog Site
